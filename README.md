@@ -3,11 +3,7 @@
 This project hosts a Docusaurus documentation-only static-site on Heroku and forces an
 authenticated session against an OAuth provider.
 
-See the default Docusaurus README below
-
----
-
-# Website
+View [the associated blog post for this repository on Dev.to](https://dev.to/dan_starner/easily-serve-internal-documentation-behind-oauth-authentication-322k).
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
